@@ -81,6 +81,9 @@ footer {
     height:229px;
     transform:translateY(300px) scale(3);
   }
+  .release {
+    margin-bottom:200px;
+  }
   footer {
     font-size:180%;
   }
