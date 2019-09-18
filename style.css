@@ -51,7 +51,7 @@ footer {
 /* mobile only */
 @media (pointer: coarse) {
   h2 {
-    font-size:220%;
+    font-size:250%;
   }
   h3 {
     font-size:140%;
@@ -63,6 +63,8 @@ footer {
   }
   #header {
     width:70%;
+    margin-top:10px;
+    margin-left:10px;
   }
   #logo {
     content:url("CAMMYT-header-black-TIGHT-MOBILE.png");
