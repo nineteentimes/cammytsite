@@ -5,10 +5,17 @@ h1 {
 h2 {
   font-size:150%;
   text-transform:uppercase;
+  letter-spacing:5px;
 }
 h3 {
-  font-size:70%;
+  font-size:100%;
+  font-weight:normal;
   text-transform:uppercase;
+}
+a {
+  color:black;
+  font-weight:bold;
+  text-decoration:none;
 }
 #header {
   width:80%;
@@ -28,8 +35,6 @@ h3 {
   text-align:center;
   padding-top:10px;
   font-family:Arial,sans-serif;
-  letter-spacing:5px;
-  
 }
 #content > h2 {
   transform: scaleY(1.1);
@@ -57,7 +62,7 @@ footer {
     font-size:250%;
   }
   h3 {
-    font-size:140%;
+    font-size:180%;
   }
   a > img {
     width:85px;
